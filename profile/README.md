@@ -9,3 +9,9 @@ We want to make sure NDE is a secure and safe Desktop Enviroment for everyone! W
 - Follow GitHub's guidelines
 - Please do not upload malicous files
 - On our discussions page please do not abuse or spam.
+
+# For developers
+
+If you want to use the NDE Desktop Enviroment for yor Linux Distibution, you can apply to the NDE Hosting Program, which gives you the entire NDE iso for you to use in your Linux Distribution, please use our iso appropriatly.
+
+You can apply for the NDE Hosting Program here: https://sites.google.com/view/nde-linux/nde-hosting-program-application
